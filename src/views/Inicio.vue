@@ -20,7 +20,7 @@ section
                 p.banner-principal__datos__item__texto 821207
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total: 
-                p.banner-principal__datos__item__texto 821207 Horas
+                p.banner-principal__datos__item__texto 3984 Horas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 27 meses
@@ -59,7 +59,7 @@ section
       | aplicados a los 
       strong diferentes sectores económicos
       | , integrando tecnologías de alta eficiencia que permitan disminuir el consumo energético y aprovechar las fuentes de energía no convencionales. Adicionalmente, desarrollará 
-      strong para la toma de decisiones. habilidades para la recolección, procesamiento y análisis de datos de diversas fuentes.
+      strong para la toma de decisiones. Habilidades para la recolección, procesamiento y análisis de datos de diversas fuentes.
 
     p 
       | El programa está dirigido a 

@@ -14,6 +14,34 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Marlon Augusto Villamizar Morales',
+        cargo: 'Experto temático',
+        centro: 'GGGI. Global Green Growth Institute',
+      },
+      {
+        nombre: 'Carlos Javier González Cuevas',
+        cargo: 'Experto temático',
+        centro:
+          'Centro Electricidad Electrónica y Telecomunicaciones - Regional distrito capital',
+      },
+      {
+        nombre: 'Jaime Mauricio Peñaloza Trespalacios',
+        cargo: 'Experto temático',
+        centro:
+          'Centro Electricidad Electrónica y Telecomunicaciones - Regional distrito capital',
+      },
+      {
+        nombre: 'Henry Vanegas Mejía',
+        cargo: 'Asesor SENA',
+        centro:
+          'Centro para el desarrollo tecnológico para la construcción y la industria - Regional Quindío',
+      },
+      {
+        nombre: 'Leidy Carolina Arias Aguirre',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y metrología - Regional distrito capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -65,7 +93,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
